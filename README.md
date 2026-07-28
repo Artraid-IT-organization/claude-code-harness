@@ -173,6 +173,16 @@ bash onboard.sh      # интервью: заполняет конфигурац
 
 ---
 
+## Контакты
+
+Автор — Вячеслав:
+
+- Сайт: [vyacheslavstrokov.ru](https://vyacheslavstrokov.ru)
+- Telegram: [@Vyacheslavs_diary](https://t.me/Vyacheslavs_diary)
+
+Вопросы по устройству, замечания и опыт использования — через любой из каналов
+или в [issues](https://github.com/Artraid-IT-organization/claude-code-harness/issues).
+
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
