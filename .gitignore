@@ -1,0 +1,25 @@
+# Секреты — никогда в репозиторий
+.env
+*.env
+.secrets/
+*.pem
+*.key
+.credentials.json
+
+# Локальное состояние, появляющееся после установки
+claude/learning-loop/ll.sqlite
+claude/learning-loop/sessions.jsonl
+claude/workspace/.onboarding-answers.md
+claude/workspace/backups/
+home/vault/sync/state.sqlite
+
+# Сгенерированное
+home/reports/archive/
+home/context-ops/audits/
+home/context-ops/state/
+
+# Мусор рантаймов
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
